@@ -1,0 +1,8 @@
+{
+    "guid":"template_data_replace",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_data_replace.git"
+    }
+}
